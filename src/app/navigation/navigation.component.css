@@ -1,0 +1,22 @@
+.navbar-dark a {
+    float: right;
+    display: inline-flex;
+    color: #16dafa;
+    text-align: center;
+    padding: 15px 17px;
+    font-size: 20px;
+    text-align: center;
+}
+.navbar-dark h3 {
+	display: inline-flex;
+	color: #fff;
+	font-size: 35px;
+	text-align: center;
+}
+
+* {box-sizing: border-box;}
+
+.navbar-dark {
+    overflow: hidden;
+    background-color: #000;
+}
